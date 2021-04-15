@@ -41,3 +41,6 @@ transaction-logs
 secrets.yml
 .gradletasknamecache
 .sts4-cache
+target/classes/META-INF/maven/com.desafios/calcImposto/pom.properties
+.classpath
+.settings/org.eclipse.jdt.core.prefs
