@@ -44,3 +44,5 @@ secrets.yml
 target/classes/META-INF/maven/com.desafios/calcImposto/pom.properties
 .classpath
 .settings/org.eclipse.jdt.core.prefs
+.classpath
+target/classes/META-INF/maven/com.desafios/calcImposto/pom.properties
