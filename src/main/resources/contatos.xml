@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
+<contatos>
+	<contato>
+		<nome>João Silva</nome>
+		<email>joao@email.com</email>
+	</contato>
+	<contato>
+		<nome>Maria Rita</nome>
+		<email>maria@email.com</email>
+	</contato>
+	<contato>
+		<nome>Renata Aragão</nome>
+		<email>renato@email.com</email>
+	</contato>
+</contatos>
