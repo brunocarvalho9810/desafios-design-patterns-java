@@ -4,3 +4,9 @@ link do curso: https://www.algaworks.com/curso/design-patterns-java
 
   * Factory Method
   * Builder
+  * Abstract factory (em desenvolvimento...)
+  * Proxy (em desenvolvimento...)
+  * Observer (em desenvolvimento...)
+  * Dependency Injection (em desenvolvimento...)
+  * Decorator (em desenvolvimento...)
+  * Strategy (em desenvolvimento...)
